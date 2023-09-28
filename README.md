@@ -9,7 +9,7 @@ Code is coming soon.
 ### Parameter Analysis
 - The length of the latent code is set to 512 following the hyper-parameters in the official implementation of SEAN [link](https://github.com/ZPdesu/SEAN).
 <p align="center">
-    <img src="length.png" align="center" height="40%" width="80%">
+    <img src="length.png" align="center" height="40%" width="60%">
 </p>
 
 
